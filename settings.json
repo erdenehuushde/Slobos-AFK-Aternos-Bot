@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AFKrdnxu",
+    "username": "Dream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "rdnxu.aternos.me",
+    "ip": "Rdnxu.aternos.me",
     "port": 30783,
-    "version": "1.16.5",
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -27,19 +27,19 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
-      "repeat-delay": 12000,
+      "enabled": false,
+      "repeat": false,
+      "repeat-delay": 120,
       "messages": [
-        "Welcome to Rdnxu smp!",
-        "Have fun!",
-        "I like to play Minecraft"
+        "I'm a regular player",
+        "Subscribe to Slobos!",
+        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 12000
+    "max-reconnect-delay": 120000
   },
   "movement": {
     "enabled": true,
@@ -82,6 +82,6 @@
     }
   },
   "chat": {
-    "respond": false
+    "respond": true
   }
 }
