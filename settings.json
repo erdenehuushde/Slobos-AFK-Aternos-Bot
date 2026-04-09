@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Dream",
+    "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Rdnxu.aternos.me",
+    "ip": "rdnxu.aternos.me",
     "port": 30783,
     "version": "",
     "try-creative": false
@@ -27,13 +27,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
-      "repeat": false,
+      "enabled": true,
+      "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm afk bot",
+        "Subscribe to ErdenehuuShde!",
+        "Welcome to rdnxu smp!"
       ]
     },
     "chat-log": true,
